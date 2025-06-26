@@ -1,0 +1,36 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/csl-a/gazebo_ros2_control_ws/install/gazebo_ros2_control/include/**",
+        "/home/csl-a/ros2_ws/install/my_robot_interfaces/include/**",
+        "/home/csl-a/mira_ws/install/diffdrive_bot/include/**",
+        "/home/csl-a/turtlebot3_ws/install/turtlebot3_fake_node/include/**",
+        "/home/csl-a/turtlebot3_ws/install/turtlebot3_msgs/include/**",
+        "/home/csl-a/turtlebot3_ws/install/turtlebot3_manipulation_hardware/include/**",
+        "/home/csl-a/turtlebot3_ws/install/turtlebot3_gazebo/include/**",
+        "/home/csl-a/turtlebot3_ws/install/open_manipulator_x_gui/include/**",
+        "/home/csl-a/turtlebot3_ws/install/dynamixel_sdk_custom_interfaces/include/**",
+        "/home/csl-a/turtlebot3_ws/install/dynamixel_sdk/include/**",
+        "/home/csl-a/mtp_ws/install/path_planner/include/**",
+        "/home/csl-a/mtp_ws/install/inv_kin_solver/include/**",
+        "/home/csl-a/mtp_ws/install/mm_interfaces/include/**",
+        "/home/csl-a/test_ws/install/dynamixel_hardware/include/**",
+        "/home/csl-a/test_ws/install/dynamixel_workbench_toolbox/include/**",
+        "/home/csl-a/test_ws/install/dynamixel_workbench_msgs/include/**",
+        "/opt/ros/humble/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

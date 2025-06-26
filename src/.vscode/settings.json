@@ -1,0 +1,42 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/csl-a/ox_ws/install/custom_pkg/lib/python3.10/site-packages",
+        "/home/csl-a/ros2_ws/install/turtlesim_catch_them_all/lib/python3.10/site-packages",
+        "/home/csl-a/ros2_ws/install/section_5/lib/python3.10/site-packages",
+        "/home/csl-a/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages",
+        "/home/csl-a/ros2_ws/install/actions_py/lib/python3.10/site-packages",
+        "/home/csl-a/ros2_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages",
+        "/home/csl-a/ros2_ws/install/lifecycle_py/lib/python3.10/site-packages",
+        "/home/csl-a/ros2_ws/install/executors_py/lib/python3.10/site-packages",
+        "/home/csl-a/ros2_ws/install/components_py/lib/python3.10/site-packages",
+        "/home/csl-a/turtlebot3_ws/install/turtlebot3_teleop/lib/python3.10/site-packages",
+        "/home/csl-a/turtlebot3_ws/install/turtlebot3_example/lib/python3.10/site-packages",
+        "/home/csl-a/turtlebot3_ws/install/turtlebot3_msgs/local/lib/python3.10/dist-packages",
+        "/home/csl-a/turtlebot3_ws/install/dynamixel_sdk_custom_interfaces/local/lib/python3.10/dist-packages",
+        "/home/csl-a/mtp_ws/install/py_inv_kin_solver/lib/python3.10/site-packages",
+        "/home/csl-a/mtp_ws/install/mm_interfaces/local/lib/python3.10/dist-packages",
+        "/home/csl-a/test_ws/install/dynamixel_workbench_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/csl-a/ox_ws/install/custom_pkg/lib/python3.10/site-packages",
+        "/home/csl-a/ros2_ws/install/turtlesim_catch_them_all/lib/python3.10/site-packages",
+        "/home/csl-a/ros2_ws/install/section_5/lib/python3.10/site-packages",
+        "/home/csl-a/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages",
+        "/home/csl-a/ros2_ws/install/actions_py/lib/python3.10/site-packages",
+        "/home/csl-a/ros2_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages",
+        "/home/csl-a/ros2_ws/install/lifecycle_py/lib/python3.10/site-packages",
+        "/home/csl-a/ros2_ws/install/executors_py/lib/python3.10/site-packages",
+        "/home/csl-a/ros2_ws/install/components_py/lib/python3.10/site-packages",
+        "/home/csl-a/turtlebot3_ws/install/turtlebot3_teleop/lib/python3.10/site-packages",
+        "/home/csl-a/turtlebot3_ws/install/turtlebot3_example/lib/python3.10/site-packages",
+        "/home/csl-a/turtlebot3_ws/install/turtlebot3_msgs/local/lib/python3.10/dist-packages",
+        "/home/csl-a/turtlebot3_ws/install/dynamixel_sdk_custom_interfaces/local/lib/python3.10/dist-packages",
+        "/home/csl-a/mtp_ws/install/py_inv_kin_solver/lib/python3.10/site-packages",
+        "/home/csl-a/mtp_ws/install/mm_interfaces/local/lib/python3.10/dist-packages",
+        "/home/csl-a/test_ws/install/dynamixel_workbench_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
